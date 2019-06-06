@@ -1,0 +1,19 @@
+#map{
+    float: left;
+    margin-right: 5px;
+    background-color: gainsboro;
+}
+.grid{
+    float: left;
+    width: 30px;
+    height: 30px;
+    background-color: whitesmoke;
+    background-size: 30px 30px;
+    margin: 1px 0 0 1px;
+    cursor: pointer;
+    text-align: center;
+    font-size: 22px;
+}
+.grid:hover{
+    background-color: gainsboro;
+}
